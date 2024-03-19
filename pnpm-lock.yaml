@@ -11,9 +11,24 @@ devDependencies:
   '@babel/core':
     specifier: ^7.24.0
     version: 7.24.0
+  '@babel/generator':
+    specifier: ^7.23.6
+    version: 7.23.6
+  '@babel/parser':
+    specifier: ^7.24.0
+    version: 7.24.0
   '@babel/preset-env':
     specifier: ^7.24.0
     version: 7.24.0(@babel/core@7.24.0)
+  '@babel/template':
+    specifier: ^7.24.0
+    version: 7.24.0
+  '@babel/traverse':
+    specifier: ^7.24.0
+    version: 7.24.0
+  '@babel/types':
+    specifier: ^7.24.0
+    version: 7.24.0
 
 packages:
 

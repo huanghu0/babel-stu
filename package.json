@@ -1,7 +1,12 @@
 {
 	"devDependencies": {
-		"@babel/core": "^7.24.0",
 		"@babel/cli": "^7.23.9",
-		"@babel/preset-env": "^7.24.0"
+		"@babel/core": "^7.24.0",
+		"@babel/generator": "^7.23.6",
+		"@babel/parser": "^7.24.0",
+		"@babel/preset-env": "^7.24.0",
+		"@babel/template": "^7.24.0",
+		"@babel/traverse": "^7.24.0",
+		"@babel/types": "^7.24.0"
 	}
 }
