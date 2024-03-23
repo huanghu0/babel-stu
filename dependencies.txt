@@ -1,0 +1,12 @@
+@babel/cli // babel命令行
+@babel/core // 
+@babel/generator // 将ast生成源码
+@babel/parser // 将源码转换成ast
+@babel/preset-env // 环境预设 不同版本的javascript polufill
+@babel/template // 模板字符串生成ast
+@babel/traverse // 遍历ast 进行增删改查操作
+@babel/types // ast 类型
+
+
+
+@babel/helper-module-imports // 用于插入模块加载的 Babel 辅助函数
