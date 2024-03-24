@@ -8,6 +8,8 @@
     "@babel/preset-env": "^7.24.3",
     "@babel/template": "^7.24.0",
     "@babel/traverse": "^7.24.1",
-    "@babel/types": "^7.24.0"
+    "@babel/types": "^7.24.0",
+    "doctrine": "^3.0.0",
+    "fs-extra": "^11.2.0"
   }
 }
